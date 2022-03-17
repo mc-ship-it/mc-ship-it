@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mc-ship-it
 - 👀 I’m interested in tech, food, and chilling
-- 🌱 I’m currently work on platform at doximity
 - 💞️ I’m looking to collaborate on security projects
 - 📫 bird app: @ProductMannyger 
 
